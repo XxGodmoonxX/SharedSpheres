@@ -36,5 +36,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-#SharedSpheres
-SharedSpheres/
+# SharedSpheres
+/SharedSpheres
