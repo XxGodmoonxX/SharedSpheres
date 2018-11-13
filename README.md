@@ -9,7 +9,7 @@ The solution for local multiplayer we settled on for this example is [CaptainsMe
 （補足）<br>
 ↑Spaceteamってなんだよって気持ちになりますが、たぶん[これ](http://teban.pico2culture.jp/article/61303993.html)のことです。
 
-Spaceteam is a free-to-play local cooperative multiplayer video game developed and published by Henry Smith of American studio Sleeping Beast Games for iOS and Android operating systems. It was released on December 1, 2012.[1] and is described as a "cooperative shouting game for phones and tablets".[2] The game uses multiple smartphone or tablet devices, connected via wifi or bluetooth, to enter a shared game of up to two to four players.
+Spaceteam is a free-to-play local cooperative multiplayer video game developed and published by Henry Smith of American studio Sleeping Beast Games for iOS and Android operating systems. It was released on December 1, 2012.[1] and is described as a "cooperative shouting game for phones and tablets".[2] The game uses multiple smartphone or tablet devices, connected via wifi or bluetooth, to enter a shared game of up to two to four players.<br>
 ↑[SpaceteamのWikipedia](https://en.wikipedia.org/wiki/Spaceteam)より<br>
 （補足終わり）
 
