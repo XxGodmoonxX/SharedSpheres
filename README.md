@@ -6,6 +6,13 @@ ARKit 2 introduced the notion of **ARWorldMap** which allow you to share your co
 
 The solution for local multiplayer we settled on for this example is [CaptainsMess](https://github.com/hengineer/CaptainsMess) by the inimitable **Spaceteam**.  
 
+（補足）<br>
+↑Spaceteamってなんだよって気持ちになりますが、たぶん[これ](http://teban.pico2culture.jp/article/61303993.html)のことです。
+
+Spaceteam is a free-to-play local cooperative multiplayer video game developed and published by Henry Smith of American studio Sleeping Beast Games for iOS and Android operating systems. It was released on December 1, 2012.[1] and is described as a "cooperative shouting game for phones and tablets".[2] The game uses multiple smartphone or tablet devices, connected via wifi or bluetooth, to enter a shared game of up to two to four players.
+↑[SpaceteamのWikipedia](https://en.wikipedia.org/wiki/Spaceteam)より<br>
+（補足終わり）
+
 This app is created with a combination of the two projects mentioned above.  We start off with a scene that maps the area around your device to obtain the ARWorldMap for the area you are going to play in.  
 
 Then we go to a scene which contains the lobby (as implemented by CaptainsMess example) so that we can connect up the devices.  You can choose to autoconnect or choose one device to be the host and others to be clients. Once they are connected, the host device will send its **ARWorldMap** to all the clients, who will all relocalize to the host device's coordinate system.  
